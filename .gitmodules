@@ -1,0 +1,6 @@
+[submodule "PSScriptAnalyzer"]
+	path = PSScriptAnalyzer
+	url = https://github.com/PowerShell/PSScriptAnalyzer
+[submodule "Pester"]
+	path = Pester
+	url = https://github.com/pester/Pester
