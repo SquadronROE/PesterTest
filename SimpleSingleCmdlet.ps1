@@ -2,7 +2,7 @@
     Simple single cmdlet
 #>
 
-function Add-2Nums
+function Add-2Num
 {
     param(
         [int]$num1,
